@@ -25,7 +25,9 @@ Go to your folder containing JSON submission results. These results will be JSON
 
 ### Step Two: 
 
-TBD
+Import function with:
+
+`import { formioStatsCheckbox as statsCheckbox } from './node_modules/formio-results-statistics/index.js'`
 
 ## Contributing
 

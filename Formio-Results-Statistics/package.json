@@ -1,6 +1,6 @@
 {
   "name": "formio-results-statistics",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "This repository contains opensource code that will serve as a library for formio users to submit their JSON object submission results, and have them automatically summarized into visualizations.",
   "type": "module",
   "main": "index.js",

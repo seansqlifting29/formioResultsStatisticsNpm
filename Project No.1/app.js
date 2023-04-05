@@ -1,3 +1,4 @@
+import { formioStatsCheckbox, formioStatsCheckbox as statsCheckbox } from './node_modules/formio-results-statistics/index.js'
 var formioResult1 = {
     "data": {
         "under18": false,
@@ -384,3 +385,4 @@ var formioResult24 = {
 }
 
 var formioResults = [formioResult1, formioResult2, formioResult3, formioResult4, formioResult5, formioResult6, formioResult7, formioResult8, formioResult9, formioResult10, formioResult11, formioResult12, formioResult13, formioResult14, formioResult15, formioResult16, formioResult17, formioResult18, formioResult19, formioResult20, formioResult21, formioResult22, formioResult23, formioResult24];
+statsCheckbox(formioResults, "male");

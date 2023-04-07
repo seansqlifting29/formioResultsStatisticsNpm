@@ -1,0 +1,3 @@
+C:\Users\Sean\source\repos\formioResultsStatisticsNpm\Project No.1\obj\Debug\Project No.1.njsproj.AssemblyReference.cache
+C:\Users\Sean\source\repos\formioResultsStatisticsNpm\Project No.1\obj\Debug\Project No.1.njsproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\formioResultsStatisticsNpm\Project No.1\bin\Microsoft.NodejsTools.WebRole.dll

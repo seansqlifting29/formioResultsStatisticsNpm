@@ -1,0 +1,17 @@
+{
+  "name": "project-no.1",
+  "version": "0.0.0",
+  "description": "Project No.1",
+  "type": "module",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "formio-results-statistics": "^1.0.12"
+  }
+}
